@@ -35,7 +35,7 @@ Keep up with the latest news and events by following us on social media.
         </a>
     </div>
     <div>
-        <a class="icon-twitter" href="https://twitter.com/fortgreeneopenstreets">
+        <a class="icon-twitter" href="https://twitter.com/fgopenstreets">
             <i class="fa fa-twitter"></i>Twitter
         </a>
     </div>

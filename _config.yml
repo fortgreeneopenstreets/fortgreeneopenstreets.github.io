@@ -33,9 +33,14 @@ plugins:
 site:
   social:
     - icon: twitter
-      url: twitter.com/fortgreeneopenstreets
+      url: twitter.com/fgopenstreets
+      name: Twitter
     - icon: instagram
       url: instagram.com/fortgreeneopenstreets
+      name: Instagram
+    - icon: facebook
+      url: facebook.com/fortgreeneopenstreets
+      name: Facebook
     
 # Exclude from processing.
 # The following items will not be processed, by default.
