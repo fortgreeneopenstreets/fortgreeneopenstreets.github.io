@@ -18,14 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fort Greene Open Streets Coalition
+title: Fort Greene Open Streets Coalitionasdfasdf
 email: info@fortgreeneopenstreets.org
 description: >- # this means to ignore newlines until "baseurl:"
-  We're a group of badass neighbors patrollin ur streets.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+  We're a group of neighbors who are taking over administration of the Open Streets program in and around Fort Greene, Brookyln. We will manage the open streets on Willoughby Ave, South Portland St, Hall St and hopefully North Elliott Place. These streets are closed to cars, and open to people, from 8am to 8pm every day.
+
+url: "https://www.fortgreeneopenstreets.org"
 
 # Build settings
 theme: minima

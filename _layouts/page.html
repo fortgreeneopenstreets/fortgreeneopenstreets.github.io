@@ -9,13 +9,16 @@
       <article class="post">
         {% if page.image %}
         <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
+          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image | prepend: site.baseurl }}{% endif %})">
+            Article Image
+          </div>
+          <div class="post-image-image2" style="background-image: url({% if page.image2 %}{{ page.image2 | prepend: site.baseurl }}{% endif %})">
             Article Image
           </div>
           <div class="post-meta">
-            <h1 class="post-title">{{ page.title }}</h1>
+            <h1 class="post-title">Fort Greene <br />Open Streets <br />Coalition
+            </h1>
             <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
             </div>
             <div style="text-align:center">
