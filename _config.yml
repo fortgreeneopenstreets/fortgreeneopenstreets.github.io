@@ -32,11 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  social_links:
-    twitter: jekyllrb
-    facebook: jekyll
-    instagram: jekyll
+site:
+  social:
+    - icon: twitter
+      url: twitter.com/fortgreeneopenstreets
+    - icon: instagram
+      url: instagram.com/fortgreeneopenstreets
     
 # Exclude from processing.
 # The following items will not be processed, by default.
