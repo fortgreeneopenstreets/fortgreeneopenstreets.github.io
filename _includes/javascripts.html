@@ -16,9 +16,15 @@
   });
 
   map.addControl(new mapboxgl.FullscreenControl());
-
   map.on('load', function () {
-
+    var layers = map.getStyle().layers;
+    var firstSymbolId;
+    for (var i = 0; i < layers.length; i++) {
+      if (layers[i].type === 'symbol' && layers[i].id === 'road-label') {
+        firstSymbolId = layers[i].id;
+        break;
+      }
+    }
     function addStreet(name, coords) {
       map.addSource(name, {
         'type': 'geojson',
@@ -41,9 +47,9 @@
         },
         'paint': {
           'line-color': '#97B9EF',
-          'line-width': 5
+          'line-width': 7
         }
-      });
+      }, firstSymbolId);
     }
     addStreet('willoughby', [
       [-73.97359067459108, 40.6917172622572],
