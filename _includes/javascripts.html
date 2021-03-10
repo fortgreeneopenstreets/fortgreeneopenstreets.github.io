@@ -16,6 +16,7 @@
   });
 
   map.addControl(new mapboxgl.FullscreenControl());
+  map.addControl(new mapboxgl.NavigationControl());
   map.on('load', function () {
     var layers = map.getStyle().layers;
     var firstSymbolId;
