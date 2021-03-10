@@ -18,7 +18,7 @@ We want to create an open public space for residents to stroll, kids to play, an
 
 ## Map
 
-![Map of Fort Greene Open Streets](/assets/images/map.jpg)
+<div id="map-box" class="map-box"></div>
 
 ## Volunteer
 
