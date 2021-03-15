@@ -10,7 +10,7 @@ image2: /assets/images/header.jpg
 
 ## About us
 
-We're a group of neighbors who are taking over administration of the [Open Streets](https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml) program in and around Fort Greene, Brooklyn. We will manage the open streets on **Willoughby Ave**, **South Portland Ave**, **Hall St** and hopefully **North Elliott Place**. These streets are closed to cars, and open to people, from **8am to 8pm** every day. See [here](#map) for a full map.
+We're a group of neighbors who are taking over administration of the [Open Streets](https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml) program in and around Fort Greene, Brooklyn. We will manage the open streets on **Willoughby Ave**, **South Portland Ave** and **Hall St**. These streets are closed to cars, and open to people, from **8am to 8pm** every day. See [here](#map) for a full map.
 
 We want to create an open public space for residents to stroll, kids to play, and friends to gather. If you have any suggestions, please get in touch at <info@fortgreeneopenstreets.org>.
 
@@ -37,11 +37,6 @@ Keep up with the latest news and events by following us on social media.
     <div>
         <a class="icon-twitter" href="https://twitter.com/fgopenstreets">
             <i class="fa fa-twitter"></i>Twitter
-        </a>
-    </div>
-    <div>
-        <a class="icon-facebook" href="https://facebook.com/fortgreeneopenstreets">
-            <i class="fa fa-facebook"></i>Facebook
         </a>
     </div>
 </div>
