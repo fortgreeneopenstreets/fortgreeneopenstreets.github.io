@@ -1,7 +1,4 @@
 <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
-<!-- <script type="text/javascript" src="{{ "/assets/js/jquery.fitvids.js" | prepend: site.baseurl  }}"></script> -->
-<!-- <script type="text/javascript" src="{{ "/assets/js/index.js" | prepend: site.baseurl  }}"></script> -->
-<!-- <script type="text/javascript" src="{{ "/assets/js/readingTime.min.js" | prepend: site.baseurl  }}"></script> -->
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
 <script>
@@ -44,7 +41,6 @@
         'source': name,
         'layout': {
           'line-join': 'round',
-          // 'line-cap': 'round'
         },
         'paint': {
           'line-color': '#97B9EF',
@@ -62,11 +58,6 @@
       [-73.97511987653503, 40.68972142394624],
       [-73.97393970456848, 40.68374995340257],
     ]);
-
-    // addStreet('north-elliot', [
-    //   [-73.97752313581238, 40.698034189250485],
-    //   [-73.97735147443542, 40.69645614758671],
-    // ]);
 
     addStreet('hall', [
       [-73.96592197528248, 40.69352259289361],
