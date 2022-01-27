@@ -10,9 +10,9 @@ image2: /assets/images/header.jpg
 
 ## About us
 
-We're a group of neighbors who are taking over administration of the [Open Streets](https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml) program in and around Fort Greene, Brooklyn. We manage the open streets on **Willoughby Ave**, **South Portland Ave** and **Hall St**. These streets are closed to cars, and open to people, from **8am to 8pm** every day. See [here](#map) for a full map.
+We're a group of neighbors who act as community liasons for the [Open Streets](https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml) program on **Willoughby Ave**, **South Portland Ave** and **Hall St**, in and around Fort Greene, Brooklyn. These streets are closed to cars, and open to people, 24 hours, 7 days a week. See [here](#map) for a full map. Operation of the street is managed by the [City Cleanup Corps](https://portal.311.nyc.gov/article/?kanumber=KA-03376), in partnership with [The Hort](https://www.thehort.org/).
 
-We want to create an open public space for residents to stroll, kids to play, and friends to gather. If you have any suggestions, please get in touch at <info@fortgreeneopenstreets.org>.
+We want to create an open public space for residents to stroll, kids to play, and friends to gather. If you want to get involved (perhaps plan an event on the street?), please get in touch at <info@fortgreeneopenstreets.org>.
 
 ![Willoughby Ave Open Street](/assets/images/willoughby.jpg)
 
@@ -20,11 +20,6 @@ We want to create an open public space for residents to stroll, kids to play, an
 
 <div id="map-box" class="map-box"></div>
 
-## Volunteer
-
-We're looking for volunteers to help us out! Sign up [here](https://airtable.com/shr6OdbML3VemZYhy) or using the embedded form below.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr6OdbML3VemZYhy?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Follow
 
