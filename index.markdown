@@ -9,9 +9,11 @@ image2: /assets/images/header.jpg
 
 ## About us
 
-We're a group of neighbors who act as community liasons for the [Open Streets](https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml) program on **Willoughby Ave**, **South Portland Ave** and **Hall St**, in and around Fort Greene, Brooklyn. These streets are closed to cars, and open to people, 24 hours, 7 days a week. See [here](#map) for a full map. Operation of the street is managed by the [City Cleanup Corps](https://portal.311.nyc.gov/article/?kanumber=KA-03376), in partnership with [The Hort](https://www.thehort.org/).
+We’re a group of neighbors who advocate for the **Willoughby Avenue Open Street** in Brooklyn’s neighborhood of Fort Greene, and the **Hall Street Open Street** in Clinton Hill. Willoughby Avenue and Hall Street Open Streets are open public spaces for residents to stroll, kids to play, dogs to be walked and friends and neighbors to gather, while still allowing for limited local access for vehicles. The hours for both Open Streets are 8:00am - 8:00pm.
 
-We want to create an open public space for residents to stroll, kids to play, and friends to gather. If you want to get involved (perhaps plan an event on the street?), please get in touch at <info@fortgreeneopenstreets.org>.
+Operation and Maintenance of the Willoughby Avenue Open Street is managed by [The Hort](https://www.thehort.org/), through a contract with the NYC Department of Transportation (DOT). Please direct any inquiries regarding the operation or maintenance of the Willoughby Avenue Open Street to: <openstreets@dot.nyc.gov>
+
+For questions about the Fort Greene Open Streets Coalition, get in touch at: <info@fortgreeneopenstreets.org>.
 
 ![Willoughby Ave Open Street](/assets/images/willoughby.jpg)
 
